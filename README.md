@@ -1,6 +1,7 @@
 # RESTful API Assignment (Spring Boot)
 
 **Student:** SADE GEORGE SADE
+**StudentID:** 26915
 **Institution:** Adventist University of Central Africa (AUCA)
 **Group Domain:** `auca.ac.rw`
 **Branch:** `restFull_api_26915`
@@ -74,10 +75,15 @@ Each folder represents an independent Spring Boot project.
  **Testing Screenshot:**
 
 * GET students
-* POST student
-* DELETE student
+* <img width="670" height="407" alt="GET_all_students" src="https://github.com/user-attachments/assets/85ac90fe-b7b9-4810-8696-b760f19ace1f" />
 
-*(Insert Postman screenshots here)*
+* POST student
+* <img width="670" height="404" alt="POST_student" src="https://github.com/user-attachments/assets/c794e00d-708d-42fe-b420-3b883ea7948a" />
+
+* DELETE student
+* <img width="670" height="405" alt="DELETE_student" src="https://github.com/user-attachments/assets/55d1c164-035c-44ea-9d7e-74e46a99b6e5" />
+
+
 
 ---
 
@@ -95,9 +101,12 @@ Each folder represents an independent Spring Boot project.
  **Testing Screenshot:**
 
 * GET menu items
-* POST menu item
+* <img width="669" height="405" alt="GET_menu" src="https://github.com/user-attachments/assets/a0a75173-2b01-4a52-ac1f-abc42920d1d4" />
 
-*(Insert Postman screenshots here)*
+* GET menu item by Name
+* <img width="674" height="407" alt="GET_menu_byname" src="https://github.com/user-attachments/assets/4148edfd-8123-47ae-b8cf-a8d8f81cdbcd" />
+ 
+
 
 ---
 
@@ -116,10 +125,15 @@ Each folder represents an independent Spring Boot project.
  **Testing Screenshot:**
 
 * GET products
-* POST product
-* DELETE product
+* <img width="669" height="407" alt="GET_products" src="https://github.com/user-attachments/assets/6d6e030a-2387-4297-8ea5-3be4147a0516" />
 
-*(Insert Postman screenshots here)*
+* POST product
+* <img width="668" height="406" alt="POST_products" src="https://github.com/user-attachments/assets/26c399e1-bf3e-47a4-a008-20732d02b16a" />
+
+* DELETE product
+* <img width="669" height="406" alt="DELETE_product" src="https://github.com/user-attachments/assets/174971e8-5a4b-4c3c-b513-63eb3a94af3b" />
+
+
 
 ---
 
@@ -137,9 +151,12 @@ Each folder represents an independent Spring Boot project.
  **Testing Screenshot:**
 
 * GET tasks
-* POST task
+* <img width="669" height="406" alt="GET_tasks" src="https://github.com/user-attachments/assets/e9613782-73e0-45c2-9f2e-4f10ba26c905" />
 
-*(Insert Postman screenshots here)*
+* POST task
+* <img width="669" height="410" alt="POST_task" src="https://github.com/user-attachments/assets/415d2c96-c586-4d59-8b45-8bc9d27da2ac" />
+
+
 
 ---
 
@@ -158,15 +175,18 @@ Each folder represents an independent Spring Boot project.
  **Testing Screenshot:**
 
 * GET users
-* POST user
+* <img width="670" height="406" alt="GET_users" src="https://github.com/user-attachments/assets/064e9a9c-21c7-4fa5-a597-dc7f62874215" />
 
-*(Insert Postman screenshots here)*
+* POST user
+* <img width="669" height="406" alt="POST_user" src="https://github.com/user-attachments/assets/178b2c85-3862-4598-a29a-9f3d8dd84ad5" />
+
+
 
 ---
 
 ##  Tools & Technologies
 
-* Java 17+
+* Java 17
 * Spring Boot
 * Maven
 * RESTful APIs
